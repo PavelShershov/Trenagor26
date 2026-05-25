@@ -1,4 +1,4 @@
-const SCRIPT_URL = 'http://n98344ew.beget.tech/api.php';
+const SCRIPT_URL = 'https://n98344ew.beget.tech/api.php';
 
 // =====================================================
 // ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
