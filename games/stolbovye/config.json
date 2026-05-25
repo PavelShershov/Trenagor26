@@ -1,0 +1,15 @@
+{
+    "gameId": "stolbovye",
+    "gameName": "Столбовые шашки",
+    "taskFiles": ["stolb_task1.js", "stolb_task2.js"],
+    "cellsCount": 64,
+    "images": {
+        "board": "pole.png",
+        "pieces": {
+			"white": "white.png",
+            "black": "black.png",
+            "white_damka": "white damka.png",
+            "black_damka": "black damka.png"
+        }
+    }
+}
